@@ -48,7 +48,10 @@ public class Build : EditorWindow
 
         EditorUserBuildSettings.androidBuildSystem = AndroidBuildSystem.Gradle;
 
-        var options = BuildOptions.AcceptExternalModificationsToPlayer;
+        // issue :
+        // https://github.com/juicycleff/flutter-unity-view-widget/issues/234#issuecomment-735307249
+        var options = BuildOptions.AllowDebugging;
+        EditorUserBuildSettings.exportAsGoogleAndroidProject = true;
         var report = BuildPipeline.BuildPlayer(
             GetEnabledScenes(),
             apkPath,
