@@ -1,372 +1,223 @@
 Using pre-set license
-Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 18363.778; Version 1909; 64bit' Language: 'en' Physical Memory: 8060 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+Desktop is 1920 x 1080 @ 60 Hz
 
  COMMAND LINE ARGUMENTS:
-E:\Unity Editor\Editor\2020.3.15f2\Editor\Unity.exe
+Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-F:/[PROJECTS]/Unity Project/Belajar primata
+/home/hilmy/Documents/Projects/IPB/primataku_pssp_mobile/unity/Belajar-Primata
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54526
-Successfully changed project path to: F:/[PROJECTS]/Unity Project/Belajar primata
-F:/[PROJECTS]/Unity Project/Belajar primata
+44359
+Successfully changed project path to: /home/hilmy/Documents/Projects/IPB/primataku_pssp_mobile/unity/Belajar-Primata
+/home/hilmy/Documents/Projects/IPB/primataku_pssp_mobile/unity/Belajar-Primata
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 66.90 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Refreshing native plugins compatible for Editor in 56,10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
 Initialize engine version: 2020.3.15f2 (6cf78cb77498)
-[Subsystems] Discovering subsystems at path E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path F:/[PROJECTS]/Unity Project/Belajar primata/Assets
-GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
-    Vendor:   
-    VRAM:     2019 MB
-    Driver:   21.21.13.7654
+[Subsystems] Discovering subsystems at path /home/hilmy/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/hilmy/Documents/Projects/IPB/primataku_pssp_mobile/unity/Belajar-Primata/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: AMD Radeon(TM) Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.11.0-25-generic, LLVM 12.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.0.3
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB
+_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_
+rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_textur
+e_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -152137728
 Initialize mono
-Mono path[0] = 'E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/Managed'
-Mono path[1] = 'E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Mono path[0] = '/home/hilmy/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed'
+Mono path[1] = '/home/hilmy/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/hilmy/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56274
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: E:/Unity Editor/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001400 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.59 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Register platform support module: /home/hilmy/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001841 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 65,92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.835 seconds
+- Completed reload, in  2,018 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1835ms)
-		BeginReloadAssembly (60ms)
+	ReloadAssembly (2019ms)
+		BeginReloadAssembly (43ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (546ms)
-			LoadAssemblies (59ms)
+		EndReloadAssembly (711ms)
+			LoadAssemblies (41ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (205ms)
+			SetupTypeCache (261ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (219ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (283ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (57ms)
-				BeforeProcessingInitializeOnLoad (16ms)
-				ProcessInitializeOnLoadAttributes (100ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
+				RefreshPlugins (66ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (154ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003503 seconds.
+Registered in 0,004279 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 54.72 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 69,61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.447 seconds
+- Completed reload, in  1,847 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1448ms)
-		BeginReloadAssembly (180ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (1199ms)
-			LoadAssemblies (106ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (361ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (514ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (55ms)
-				BeforeProcessingInitializeOnLoad (88ms)
-				ProcessInitializeOnLoadAttributes (346ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2111 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.7 MB.
-System memory in use after: 95.7 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2545.
-Total: 3.040900 ms (FindLiveObjects: 0.230100 ms CreateObjectMapping: 0.103200 ms MarkObjects: 2.553900 ms  DeleteObjects: 0.152300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/OrelegaOne-Regular SDF.asset
-  artifactKey: Guid(89c2f65fd98c8f94db04a9685dc05e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OrelegaOne-Regular SDF.asset using Guid(89c2f65fd98c8f94db04a9685dc05e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4538b8737b1f4efaad27e1efb3f5e08d') in 1.091682 seconds 
-  Import took 1.153684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.811183 seconds.
-  path: Assets/OrelegaOne-Regular SDF.asset
-  artifactKey: Guid(89c2f65fd98c8f94db04a9685dc05e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OrelegaOne-Regular SDF.asset using Guid(89c2f65fd98c8f94db04a9685dc05e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4538b8737b1f4efaad27e1efb3f5e08d') in 0.043945 seconds 
-  Import took 0.051075 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.59 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.2 MB.
-System memory in use after: 57.2 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2593.
-Total: 5.149900 ms (FindLiveObjects: 0.273200 ms CreateObjectMapping: 0.189500 ms MarkObjects: 4.567000 ms  DeleteObjects: 0.118600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.03 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.1 MB.
-System memory in use after: 57.1 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2593.
-Total: 3.757500 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.169000 ms MarkObjects: 3.169200 ms  DeleteObjects: 0.128700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 586.721884 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b939ea0123f1cd69ff705261dd5258') in 0.018824 seconds 
-  Import took 0.026122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.030804 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b939ea0123f1cd69ff705261dd5258') in 0.005374 seconds 
-  Import took 0.012401 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.787793 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML
-  artifactKey: Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML using Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191f5626bf9051d2941a699e6e607382') in 0.021199 seconds 
-  Import took 0.026193 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001961 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML
-  artifactKey: Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML using Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191f5626bf9051d2941a699e6e607382') in 0.006156 seconds 
-  Import took 0.011954 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.271734 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.685 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1686ms)
-		BeginReloadAssembly (138ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (48ms)
-		EndReloadAssembly (1463ms)
-			LoadAssemblies (120ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (470ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (596ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (104ms)
-				ProcessInitializeOnLoadAttributes (473ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (15ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2097 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.5 MB.
-System memory in use after: 97.5 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2593.
-Total: 4.120900 ms (FindLiveObjects: 0.461500 ms CreateObjectMapping: 0.156300 ms MarkObjects: 3.329000 ms  DeleteObjects: 0.172600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 98.055641 seconds.
-  path: Assets/OrelegaOne-Regular.ttf
-  artifactKey: Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OrelegaOne-Regular.ttf using Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff9a9c2595e18cdbc95b2e7cc744821') in 0.229918 seconds 
-  Import took 0.234884 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 3.33 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.8 MB.
-System memory in use after: 56.8 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2597.
-Total: 3.542800 ms (FindLiveObjects: 0.284400 ms CreateObjectMapping: 0.120500 ms MarkObjects: 3.010400 ms  DeleteObjects: 0.126400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 196.668837 seconds.
-  path: Assets/OrelegaOne-Regular.ttf
-  artifactKey: Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OrelegaOne-Regular.ttf using Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740b19bab7d7ccf72243211485b69e7d') in 0.021779 seconds 
-  Import took 0.026060 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.046225 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.407 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1407ms)
-		BeginReloadAssembly (119ms)
+	ReloadAssembly (1849ms)
+		BeginReloadAssembly (197ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (42ms)
-		EndReloadAssembly (1223ms)
-			LoadAssemblies (100ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1562ms)
+			LoadAssemblies (109ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (382ms)
+			SetupTypeCache (453ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (476ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (735ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (535ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0,82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90,2 MB.
+System memory in use after: 90,2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 9,513064 ms (FindLiveObjects: 0,597488 ms CreateObjectMapping: 0,194744 ms MarkObjects: 8,477796 ms  DeleteObjects: 0,240440 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/OrelegaOne-Regular.ttf
+  artifactKey: Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OrelegaOne-Regular.ttf using Guid(3075d857d6f7206449cab11d2353eac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740b19bab7d7ccf72243211485b69e7d') in 0,132216 seconds 
+  Import took 0,137944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65,378034 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0,001279 seconds 
+  Import took 0,006802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,002507 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0,001350 seconds 
+  Import took 0,006829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 697,522089 seconds.
+  path: Assets/FlutterUnityIntegration/JsonDotNet
+  artifactKey: Guid(4c3f323f964d7409b923c39fc511af21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlutterUnityIntegration/JsonDotNet using Guid(4c3f323f964d7409b923c39fc511af21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0335890e2b74e1b4cd6a952c3c1f4083') in 0,002398 seconds 
+  Import took 0,010663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000541 seconds.
+  path: Assets/FlutterUnityIntegration/JsonDotNet
+  artifactKey: Guid(4c3f323f964d7409b923c39fc511af21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlutterUnityIntegration/JsonDotNet using Guid(4c3f323f964d7409b923c39fc511af21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0335890e2b74e1b4cd6a952c3c1f4083') in 0,001317 seconds 
+  Import took 0,007695 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,639 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1640ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (75ms)
+		EndReloadAssembly (1379ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (455ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (537ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (359ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (421ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
 Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2107 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.9 MB.
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0,84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90,4 MB.
+System memory in use after: 90,5 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 3.066900 ms (FindLiveObjects: 0.260000 ms CreateObjectMapping: 0.119300 ms MarkObjects: 2.513200 ms  DeleteObjects: 0.171700 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2611.
+Total: 10,143854 ms (FindLiveObjects: 0,608709 ms CreateObjectMapping: 0,245489 ms MarkObjects: 9,128564 ms  DeleteObjects: 0,158106 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -376,606 +227,4 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004654 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.615 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1615ms)
-		BeginReloadAssembly (242ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (90ms)
-		EndReloadAssembly (1234ms)
-			LoadAssemblies (208ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (435ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (435ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (85ms)
-				ProcessInitializeOnLoadAttributes (333ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2097 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.7 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 3.262900 ms (FindLiveObjects: 0.286400 ms CreateObjectMapping: 0.133600 ms MarkObjects: 2.710500 ms  DeleteObjects: 0.131100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 7.87 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.9 MB.
-System memory in use after: 56.9 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 7.836200 ms (FindLiveObjects: 0.296300 ms CreateObjectMapping: 0.432400 ms MarkObjects: 6.959100 ms  DeleteObjects: 0.146900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 11.35 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.9 MB.
-System memory in use after: 56.9 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 4.386000 ms (FindLiveObjects: 0.485400 ms CreateObjectMapping: 0.193000 ms MarkObjects: 3.576700 ms  DeleteObjects: 0.129000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.68 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.8 MB.
-System memory in use after: 56.7 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 3.922800 ms (FindLiveObjects: 0.317900 ms CreateObjectMapping: 0.154900 ms MarkObjects: 3.311200 ms  DeleteObjects: 0.137200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 5.44 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.8 MB.
-System memory in use after: 56.7 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2603.
-Total: 4.562600 ms (FindLiveObjects: 0.711100 ms CreateObjectMapping: 0.185000 ms MarkObjects: 3.477800 ms  DeleteObjects: 0.186900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 1093.087841 seconds.
-  path: Assets/64 flat icons/IconGenerator.psd
-  artifactKey: Guid(46b2460062a5dbb41a000bf94a3596c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/64 flat icons/IconGenerator.psd using Guid(46b2460062a5dbb41a000bf94a3596c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14dd41b568447bdda74441c66e73b7e8') in 0.146510 seconds 
-  Import took 0.150994 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/64 flat icons/png/128px/Elements_Air.png
-  artifactKey: Guid(7a20e335c64fc7146a6bde2d8e389c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/64 flat icons/png/128px/Elements_Air.png using Guid(7a20e335c64fc7146a6bde2d8e389c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a1446d134934ed724e29cf87e4e83d') in 0.033224 seconds 
-  Import took 0.038056 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.182596 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/package.json
-  artifactKey: Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/package.json using Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3887d1616531507fa9c4f23ac1ba7ce0') in 0.056423 seconds 
-  Import took 0.073803 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.263073 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime
-  artifactKey: Guid(de1c7164adaf49d47b5de31c140713c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime using Guid(de1c7164adaf49d47b5de31c140713c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e246ddfc98a6f576dd04657a468d713') in 0.007606 seconds 
-  Import took 0.011973 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002458 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime
-  artifactKey: Guid(de1c7164adaf49d47b5de31c140713c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime using Guid(de1c7164adaf49d47b5de31c140713c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e246ddfc98a6f576dd04657a468d713') in 0.002872 seconds 
-  Import took 0.009595 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.261819 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime/Newtonsoft.Json.dll
-  artifactKey: Guid(8c4bfcb5b17948478ccb955bccff9652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime/Newtonsoft.Json.dll using Guid(8c4bfcb5b17948478ccb955bccff9652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03180c44fcac579d6b278585e1d51d98') in 0.007860 seconds 
-  Import took 0.045668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004260 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime/Newtonsoft.Json.dll
-  artifactKey: Guid(8c4bfcb5b17948478ccb955bccff9652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime/Newtonsoft.Json.dll using Guid(8c4bfcb5b17948478ccb955bccff9652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03180c44fcac579d6b278585e1d51d98') in 0.003597 seconds 
-  Import took 0.008925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.775785 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Tests/Editor/Unity.Nuget.NewtonsoftJson.EditorTests.asmdef
-  artifactKey: Guid(ea73f805f48068f409cafb2b12726b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Tests/Editor/Unity.Nuget.NewtonsoftJson.EditorTests.asmdef using Guid(ea73f805f48068f409cafb2b12726b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a1d4dc14dfd82d81373006e442a110') in 0.009181 seconds 
-  Import took 0.013963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.342160 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime/Portable
-  artifactKey: Guid(1ea4df43bb909499fa840ea0b9e55b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime/Portable using Guid(1ea4df43bb909499fa840ea0b9e55b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb7a50f86620f889cc6677e8ec55bb2') in 0.008799 seconds 
-  Import took 0.013159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.849585 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(6c694cfdc33ae264fb33e0cd1c7e25cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime/AOT/Newtonsoft.Json.dll using Guid(6c694cfdc33ae264fb33e0cd1c7e25cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb22bd5a191d8247890174020203f7d') in 0.003146 seconds 
-  Import took 0.008457 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.198574 seconds.
-  path: Packages/com.unity.nuget.newtonsoft-json/Runtime/Portable/Newtonsoft.Json.dll
-  artifactKey: Guid(e8a2e6265da3549468b4ccef3eb81e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.nuget.newtonsoft-json/Runtime/Portable/Newtonsoft.Json.dll using Guid(e8a2e6265da3549468b4ccef3eb81e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9432c0fe1fd94058c7c865682d3f01cc') in 0.002719 seconds 
-  Import took 0.006652 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.313412 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ec45362e5b65ecf855069e0855ee67') in 0.002727 seconds 
-  Import took 0.032773 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.527648 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b3244b38956b55e102a2dfcdaeab3d') in 0.002985 seconds 
-  Import took 0.007219 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.724772 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb06674c36d62e5fbc10b8d610e4df1') in 0.003194 seconds 
-  Import took 0.008488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.469688 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30891300e6959262d97f78b7bafba1e4') in 0.003311 seconds 
-  Import took 0.008304 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.635870 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll
-  artifactKey: Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll using Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60dab327b50d0b0679ee0cb98c26882f') in 0.002535 seconds 
-  Import took 0.007324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.718626 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll
-  artifactKey: Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll using Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90226e60e97837d65ea30058c22d4370') in 0.015053 seconds 
-  Import took 0.020656 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.819024 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0e81abbf7ef7c7eb0793ff8fe08542') in 0.003316 seconds 
-  Import took 0.008050 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.456244 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5e3052ed4a1b78f40d94aecb99e569') in 0.002742 seconds 
-  Import took 0.007815 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005566 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.123 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2124ms)
-		BeginReloadAssembly (279ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (18ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (97ms)
-		EndReloadAssembly (1762ms)
-			LoadAssemblies (182ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (736ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (114ms)
-			SetupLoadedEditorAssemblies (520ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (106ms)
-				ProcessInitializeOnLoadAttributes (391ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (15ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2097 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.7 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2609.
-Total: 2.946700 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.520500 ms  DeleteObjects: 0.125100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 271.587252 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML
-  artifactKey: Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML using Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14036ef1ef86e8438e29a8a31d1b22b8') in 0.016435 seconds 
-  Import took 0.043425 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML
-  artifactKey: Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML using Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14036ef1ef86e8438e29a8a31d1b22b8') in 0.003779 seconds 
-  Import took 0.009834 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.669204 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft2.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft2.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b324ea5ce88158c898f359f2067904a4') in 0.008130 seconds 
-  Import took 0.013647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.299915 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft2.Json.XML
-  artifactKey: Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft2.Json.XML using Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8ba654d475676cee0aa08cb755547b') in 0.002226 seconds 
-  Import took 0.006760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.596579 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft2.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft2.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe0fadceeb60a40e818cbfed9b37749') in 0.006241 seconds 
-  Import took 0.023202 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.172091 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft2.Json.XML
-  artifactKey: Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft2.Json.XML using Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c9586cbf8045e7110346bb1c43eeeb') in 0.003081 seconds 
-  Import took 0.009862 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.407817 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217231cf717aa70ae8f5b07fcba917c8') in 0.002566 seconds 
-  Import took 0.006239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.049093 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140f050baca49aefac8d95e29ad1163e') in 0.001939 seconds 
-  Import took 0.006846 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.618623 seconds.
-  path: Assets/FlutterUnityIntegration/UnityMessageManager.cs
-  artifactKey: Guid(d8f0d555a552e429a9e36a2bec4c1faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/UnityMessageManager.cs using Guid(d8f0d555a552e429a9e36a2bec4c1faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685856e268e05960bef056e44b5786b0') in 0.012597 seconds 
-  Import took 0.017466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001231 seconds.
-  path: Assets/FlutterUnityIntegration/UnityMessageManager.cs
-  artifactKey: Guid(d8f0d555a552e429a9e36a2bec4c1faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/UnityMessageManager.cs using Guid(d8f0d555a552e429a9e36a2bec4c1faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685856e268e05960bef056e44b5786b0') in 0.002365 seconds 
-  Import took 0.006326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.992472 seconds.
-  path: Assets/FlutterUnityIntegration/SingletonMonoBehaviour.cs
-  artifactKey: Guid(26f606bd4d23f497fa7b976bf9684caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/SingletonMonoBehaviour.cs using Guid(26f606bd4d23f497fa7b976bf9684caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b548110e519f3e8c33807f7f3e6228') in 0.007137 seconds 
-  Import took 0.012150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.971364 seconds.
-  path: Assets/FlutterUnityIntegration/README.txt
-  artifactKey: Guid(27e3ba5602e8640efa9213abe9935d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/README.txt using Guid(27e3ba5602e8640efa9213abe9935d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4323dd800672dd2fe5f476b4e3a22ba8') in 0.015487 seconds 
-  Import took 0.020760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.490578 seconds.
-  path: Assets/FlutterUnityIntegration/Plugins
-  artifactKey: Guid(c933088c884fa446a9ef6fcc5d4967b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/Plugins using Guid(c933088c884fa446a9ef6fcc5d4967b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc95e354e6f385482a4c2623f7bc5fa') in 0.006543 seconds 
-  Import took 0.011544 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.124358 seconds.
-  path: Assets/FlutterUnityIntegration/Plugins/iOS
-  artifactKey: Guid(92f5869add8134466b0b7cff3ac1b558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/Plugins/iOS using Guid(92f5869add8134466b0b7cff3ac1b558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1662364e4a71f3e2b16e341ada185786') in 0.006533 seconds 
-  Import took 0.012933 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.526947 seconds.
-  path: Assets/FlutterUnityIntegration/Plugins/iOS/NativeCallProxy.h
-  artifactKey: Guid(e5a113ae9e7ae44ffbf2067558023a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/Plugins/iOS/NativeCallProxy.h using Guid(e5a113ae9e7ae44ffbf2067558023a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314a8078460521bb284a35456d382f40') in 0.142909 seconds 
-  Import took 0.147057 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.526330 seconds.
-  path: Assets/FlutterUnityIntegration/Plugins/iOS/NativeCallProxy.mm
-  artifactKey: Guid(3f676dfd3d6fd4ae49028c89adc526f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/Plugins/iOS/NativeCallProxy.mm using Guid(3f676dfd3d6fd4ae49028c89adc526f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1550a4faec3e737b629654049680c167') in 0.003867 seconds 
-  Import took 0.008352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.014089 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca17e5824bd829199f3c1353b3fa3a38') in 0.001818 seconds 
-  Import took 0.005977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.899715 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8bf53731fc3df9f3838943213451ec') in 0.001787 seconds 
-  Import took 0.006114 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.442473 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json2.dll
-  artifactKey: Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json2.dll using Guid(77fbe896d7a534d30b2f2baba79ebc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a01ea10760d31daf5725887131357d') in 0.044708 seconds 
-  Import took 0.062535 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.663963 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json2.XML
-  artifactKey: Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json2.XML using Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce5daf1ee7acbfe00d505dcc1e747ba') in 0.003144 seconds 
-  Import took 0.006978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.279093 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json2.dll
-  artifactKey: Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json2.dll using Guid(332d43442f2df42a2bdc859968227c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8c01f5e152ed33f9f2d5dc93044ee2') in 0.010352 seconds 
-  Import took 0.054765 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.885323 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json2.XML
-  artifactKey: Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/AOT/Newtonsoft.Json2.XML using Guid(ed833ea3d720e48a3bfccc01167343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef50f91e40293e2b807aae258d0438fc') in 0.002374 seconds 
-  Import took 0.006648 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.098629 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json2.dll
-  artifactKey: Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json2.dll using Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a508f9dedf33af2c63911bdb4ac5735') in 0.007930 seconds 
-  Import took 0.078546 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.627756 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML
-  artifactKey: Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML using Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80448595aac5352cb042f1798f420f30') in 0.005532 seconds 
-  Import took 0.015847 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006891 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML
-  artifactKey: Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML using Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80448595aac5352cb042f1798f420f30') in 0.003025 seconds 
-  Import took 0.011807 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.094442 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json2.XML
-  artifactKey: Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft.Json2.XML using Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1078c3729368e969ebf2f1ec96e8b3') in 0.002289 seconds 
-  Import took 0.006850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 145.037280 seconds.
-  path: Assets/Scripts/Acak Kata/WordUI.cs
-  artifactKey: Guid(a141dc131e1f82147a22e030857c9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Acak Kata/WordUI.cs using Guid(a141dc131e1f82147a22e030857c9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be59be0ab520991fb28676e532c5b7f2') in 0.007479 seconds 
-  Import took 0.012353 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.039917 seconds.
-  path: Assets/Scripts/Acak Kata/WordUI.cs
-  artifactKey: Guid(a141dc131e1f82147a22e030857c9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Acak Kata/WordUI.cs using Guid(a141dc131e1f82147a22e030857c9499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be59be0ab520991fb28676e532c5b7f2') in 0.001882 seconds 
-  Import took 0.006749 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 129.017964 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/2.XML
-  artifactKey: Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Standalone/2.XML using Guid(8b65f941004d84448bf1108419732aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb38e27f8d1f4d9fb844c12911013b69') in 0.012102 seconds 
-  Import took 0.017323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.862181 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft2.Json.dll
-  artifactKey: Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft2.Json.dll using Guid(1b361f800a19d48c2a0c1ec3118083ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3069195cef4d6cc6f533ec3020a9a54') in 0.003471 seconds 
-  Import took 0.007818 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.558037 seconds.
-  path: Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft2.Json.XML
-  artifactKey: Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlutterUnityIntegration/JsonDotNet/Assemblies/Windows/Newtonsoft2.Json.XML using Guid(0e7979cc6e0f342bfb718e06cbcd84f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159db230d9f69987aa7fd01c10ccff01') in 0.003081 seconds 
-  Import took 0.007059 seconds .
-
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
