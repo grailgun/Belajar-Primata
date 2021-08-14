@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Simpanse
   m_EditorClassIdentifier: 
   nama: SIMPANSE
-  deskripsi: Primata yang sudah hidup selama 100 tahun (misalnya)
+  deskripsi: Primata simpanse
   pertanyaan:
   - Primata yang dikenal cerdas

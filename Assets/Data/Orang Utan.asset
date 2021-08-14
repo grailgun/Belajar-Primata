@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Orang Utan
   m_EditorClassIdentifier: 
   nama: ORANGUTAN
-  deskripsi: Primata yang sudah hidup selama 100 tahun (misalnya)
+  deskripsi: Primata orangutan
   pertanyaan:
   - Primata ini berasal dari Indonesia
