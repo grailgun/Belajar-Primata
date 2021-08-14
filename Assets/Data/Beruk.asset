@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1ad625031f674d546ac23c483fa7f60a, type: 3}
-  m_Name: Orang Utan
+  m_Name: Beruk
   m_EditorClassIdentifier: 
-  nama: ORANGUTAN
-  deskripsi: Primata yang sudah hidup selama 100 tahun (misalnya)
+  nama: BERUK
+  deskripsi: Primata beruk
   pertanyaan:
-  - Primata ini berasal dari Indonesia
+  - Tubuhnya tertutup mantel rambut berwarna coklat keabuan dan kemerahan
