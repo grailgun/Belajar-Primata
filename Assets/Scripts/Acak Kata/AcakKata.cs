@@ -78,7 +78,7 @@ public class AcakKata : MonoBehaviour
         if (primataName.Length < 1) return null;
 
         int nameLength = primataName.Length;
-        string shuffledWord = currentData.name;
+        string shuffledWord = currentData.PrimataName;
 
         if (nameLength < recommendShuffleWordLength)
         {
