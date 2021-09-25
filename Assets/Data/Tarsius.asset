@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ad625031f674d546ac23c483fa7f60a, type: 3}
   m_Name: Tarsius
   m_EditorClassIdentifier: 
-  nama: 
-  deskripsi: 
-  pertanyaan: []
+  nama: TARSIUS
+  deskripsi: Primata tarsius
+  pertanyaan:
+  - Suatu genus monotipe dari famili Tarsiidae, satu-satunya famili yang bertahan
+    dari ordo Tarsiiformes. Meskipun grup ini dahulu kala memiliki penyebaran yang
+    luas, akan tetapi semua spesies yang hidup sekarang jumlahnya terbatas dan ditemukan
+    di pulau-pulau di Asia Tenggara

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ad625031f674d546ac23c483fa7f60a, type: 3}
   m_Name: Surili
   m_EditorClassIdentifier: 
-  nama: Surili
+  nama: SURILI
   deskripsi: Primata surili
   pertanyaan:
   - Umumnya warna tubuh dewasa mulai dari kepala sampai bagian punggung hitam atau

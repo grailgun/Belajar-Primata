@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ad625031f674d546ac23c483fa7f60a, type: 3}
   m_Name: Owa Jawa
   m_EditorClassIdentifier: 
-  nama: Owa
+  nama: OWA JAWA
   deskripsi: Primata owa
   pertanyaan:
   - "Sejenis primata anggota suku Hylobatidae. Dengan populasi tersisa antara 1.000
