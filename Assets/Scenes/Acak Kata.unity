@@ -2295,6 +2295,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5057667b635225a4f87887c60f6eb3eb, type: 2}
   - {fileID: 11400000, guid: 9ccff6aca8444c144a933c7d6aa2405a, type: 2}
   - {fileID: 11400000, guid: 017cf86195d23534cb1b63fc1bfcf7a9, type: 2}
+  - {fileID: 11400000, guid: 3261e27622eecb90e98400ed4d1a5b2d, type: 2}
+  - {fileID: 11400000, guid: 5632ca89f3c75fd2cacb32a3815ee2aa, type: 2}
   recommendShuffleWordLength: 12
   answerTime: 15
   answerScore: 5
